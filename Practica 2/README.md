@@ -1,10 +1,10 @@
-# Práctica #1
+# Práctica #2
 
-_Contador binario de 8 bits que muestra su salida como una representación de 1 y 0 en LED._
+_Registro de corrimiento que toma permite el cambio de direccionamiento, así como un reinicio._
 
 ## Demostración en YouTube 🚀
 
-[YouTube](https://youtu.be/19huuNwTTCk) - Funcionamiento y simulación
+[YouTube](https://todavia.no/disponible) - Funcionamiento y simulación
 
 ### Instalación 🔧
 
