@@ -1,10 +1,15 @@
 # Práctica #3
 
 _Diseñe un sistema que controle el llenado de un tanque con las siguientes características:_
+
 _a) El sistema consta de 2 bombas, A y B._
+
 _b) Un sensor de nivel ‘H’ indica H=1, tanque lleno; y H=0, tanque vacío._
+
 _c) Partiendo de que el tanque está vacío, el llenado deberá iniciarse encendiendo la bomba A hasta llenar el tanque para posteriormente apagarse._
+
 _d) Si de nuevo se vacía el tanque, el llenado deberá hacerse ahora con la bomba B, hasta llenar el tanque, para finalmente apagarse._
+
 _e) Si nuevamente se vacía el tanque, deberá llenarse con la bomba A, y así sucesivamente._
 
 ## Demostración en YouTube 🚀
