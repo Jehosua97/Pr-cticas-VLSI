@@ -12,7 +12,7 @@ _Se utilizó la tarjeta ARROW MAX 1000 en la implementación de esta solución. 
 
 [Manual](https://github.com/Jehosua97/Practicas-VLSI/blob/master/Practica%206/manual) - Código para acceso a registros mediante combinaciones de entrada.
 
-[Servo](https://github.com/Jehosua97/Practicas-VLSI/blob/master/Practica%206/auto) - Código para acceso automático a registros.
+[Automático](https://github.com/Jehosua97/Practicas-VLSI/blob/master/Practica%206/auto) - Código para acceso automático a registros.
 
 ## Autores ✒️
 
