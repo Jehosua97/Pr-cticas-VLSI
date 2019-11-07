@@ -1,7 +1,9 @@
 # Práctica #8
 
 _Diseño de una solución que permita transmitir y recibir información por medio de un protocolo UART._
+
 _• Recibe un byte y lo muestra en LED._
+
 _• Lee un dipswitch y envía el dato._
 
 ## Demostración en YouTube 🚀
